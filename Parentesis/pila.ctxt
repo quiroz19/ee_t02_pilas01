@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=tama\u00F1o
+comment0.target=pila(int)
+comment1.params=
+comment1.target=boolean\ estallena()
+comment2.params=
+comment2.target=boolean\ estaVacia()
+comment3.params=dato
+comment3.target=void\ push(char)
+comment4.params=
+comment4.target=char\ pop()
+comment5.params=
+comment5.target=char\ peek()
+comment6.params=datos
+comment6.target=void\ comparator(java.lang.String)
+numComments=7
